@@ -1,4 +1,6 @@
-var computerChoice = Math.random();
+function computerChoice() {
+   var a = Math.random();
+}
 
 alert(computerChoice);
 
