@@ -1,4 +1,4 @@
-return computerChoice = Math.random();
+var computerChoice = Math.random();
 
 function playerSten() {
   if(computerChoice >= 0.66) {
