@@ -1,8 +1,5 @@
-function computerChoice() {
-   var a = Math.random();
-}
+var computerChoice = Math.random();
 
-alert(computerChoice);
 
 function playerSten() {
   if(computerChoice() >= 0.66) {
