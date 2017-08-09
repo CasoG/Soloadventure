@@ -1,1 +1,3 @@
-console.log("This is our first js!");
+function playerSten() {
+  console.log("Du valgte sten");
+}
