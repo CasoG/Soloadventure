@@ -1,5 +1,7 @@
 var computerChoice = Math.random();
 
+alert(computerChoice);
+
 function playerSten() {
   if(computerChoice >= 0.66) {
     alert("Computeren valgte også sten, prøv igen!");
